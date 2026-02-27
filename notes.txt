@@ -1,0 +1,6 @@
+> Installlation
+
+npm init -y -> for packet.json
+Express
+EJS
+Socket.io
